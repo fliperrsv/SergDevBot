@@ -1,4 +1,4 @@
-```markdown
+
 # 🤖 Сергей Резунков – Telegram-бот портфолио
 
 [![Bot](https://img.shields.io/badge/Telegram-Бот-0088cc?style=flat-square&logo=telegram)](https://t.me/ваш_бот_username)
@@ -203,6 +203,5 @@ async def check_reminders():
 
 © 2025 Сергей Резунков
 
-```
 
 ---
